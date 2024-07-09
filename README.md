@@ -43,6 +43,8 @@ Busco novas oportunidades para contribuir com minha expertise em projetos inovad
 - Criação de uma biblioteca de componentes UI para uso geral em diversos meios de comunicação mobile.
 - Tecnologias usadas: Xamarin, MAUI, C#, .NET, Visual Studio, Visual Studio Code
 
+<br/>
+<br/>
 <img src="https://cdn.cookielaw.org/logos/6306b2fe-a008-4217-8491-2072774878c1/2670d0ae-28b6-4c4d-94ee-7dc8fb82cee9/764d35dd-20db-4c37-9850-7f1ec3ae7779/feedzai_logo_color.jpg" alt="Xpand-IT Logo" width="200"/>
 
 **Feedzai**  
@@ -51,6 +53,10 @@ Busco novas oportunidades para contribuir com minha expertise em projetos inovad
 
 - Desenvolvi um middleware para criação de recursos na plataforma para testes unitários e de sistema.
 - Tecnologias usadas: Java, Docker, Maven
+
+<br/>
+<br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWsSbf_haZSW-491sdaLCXQVZ7vZEVhHDHAA&s" alt="Xpand-IT Logo" width="200"/>
 
 **Projetos Pessoais**  
 *Desenvolvimento de uma App Android (XAMARIN)*  
