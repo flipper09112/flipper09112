@@ -11,8 +11,7 @@
 
 ## 🧑‍💻 Perfil
 Engenheiro Informático com 4 anos de experiência em desenvolvimento mobile, uma área que eu adoro por toda a versatilidade que permite para resolver problemas a pessoas e/ou empresas, especializado em Xamarin e MAUI.
-Possuo sólida formação em Segurança Informática e Engenharia Informática pela Universidade de Coimbra.
-Busco novas oportunidades para contribuir com minha expertise em projetos inovadores e desafiadores.
+Possuo formação em Segurança Informática e Engenharia Informática pela Universidade de Coimbra.
 
 ---
 
