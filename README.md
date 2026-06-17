@@ -1,87 +1,247 @@
+# José Filipe Lopes Torres
 
-# José Filipe Lopes Torres [Mobile Developer]
+## Senior Mobile Engineer
 
-**📞 Telemóvel**: 961 122 213  
-**🔗 LinkedIn**: [Filipe Torres](https://www.linkedin.com/in/filipe-torres-383819160/)  
-**📧 Email**: flipper09@live.com.pt  
-**🐱 GitHub**: [flipper09112](https://github.com/flipper09112)  
-**💼 StackOverflow**: [Filipe Torres](https://stackoverflow.com/users/12670242/filipe-torres)  
+.NET MAUI | Xamarin | Android | Kotlin Multiplatform
 
----
+📞 961 122 213
 
-## 🧑‍💻 Perfil
-Engenheiro Informático com 4 anos de experiência em desenvolvimento mobile, uma área que eu adoro por toda a versatilidade que permite para resolver problemas a pessoas e/ou empresas, especializado em Xamarin e MAUI.
-Possuo formação em Segurança Informática e Engenharia Informática pela Universidade de Coimbra.
+📧 [flipper09@live.com.pt](mailto:flipper09@live.com.pt)
 
----
+🔗 LinkedIn: https://www.linkedin.com/in/filipe-torres-383819160/
 
-## 🎓 Formação Académica
-**Universidade de Coimbra**  
-*Pós-graduação em Segurança Informática*  
-*Setembro 2018 – Junho 2019*
+🐱 GitHub: https://github.com/flipper09112
 
-**Universidade de Coimbra**  
-*Licenciatura em Engenharia Informática*  
-*Setembro 2015 – Junho 2018*
+💼 StackOverflow: https://stackoverflow.com/users/12670242/filipe-torres
 
-**Escola Básica e Secundária de Arga e Lima**  
-*Ciências e Tecnologias*  
-*Setembro 2012 – Junho 2015*
+📸 Instagram (Projetos Pessoais): https://www.instagram.com/flipc0de/
+
 
 ---
 
-## 💼 Experiência Profissional
+# 🧑‍💻 Perfil
 
-<img src="https://careers.xpand-it.com/wp-content/uploads/2017/11/logo_xpand_it_cores.png" alt="Xpand-IT Logo" width="200"/>
+Engenheiro Informático com mais de 6 anos de experiência em desenvolvimento mobile, especializado em .NET MAUI, Xamarin e Android.
 
-**Xpand-IT**  
-*Mobile Developer*  
-*Julho 2020 – Presente*  
-- Criação de novas funcionalidades e manutenção de aplicações mobile nas áreas de seguros e da banca.
-  - [# Xamarin.Android **self-managed ConnectionService API**](https://medium.com/@filipe.torres112/xamarin-android-self-managed-connectionservice-api-fa548c6897b) (Usado para a funcionalidade de vídeo chamadas com médicos numa aplicação de seguros de saúde)
-- Criação de uma biblioteca de componentes UI para uso geral em diversos meios de comunicação mobile.
-- Tecnologias usadas: Xamarin, MAUI, C#, .NET, Visual Studio, Visual Studio Code
+Experiência no desenvolvimento e manutenção de aplicações para os setores da banca, pagamentos e seguros, participando em todas as fases do ciclo de desenvolvimento: análise, implementação, testes, publicação e manutenção.
 
-<br/>
-<br/>
-<img src="https://cdn.cookielaw.org/logos/6306b2fe-a008-4217-8491-2072774878c1/2670d0ae-28b6-4c4d-94ee-7dc8fb82cee9/764d35dd-20db-4c37-9850-7f1ec3ae7779/feedzai_logo_color.jpg" alt="Xpand-IT Logo" width="200"/>
-
-**Feedzai**  
-*Estágio de Verão*  
-*Junho 2019 – Setembro 2019*  
-
-- Desenvolvi um middleware para criação de recursos na plataforma para testes unitários e de sistema.
-- Tecnologias usadas: Java, Docker, Maven
-
-<br/>
-<br/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWsSbf_haZSW-491sdaLCXQVZ7vZEVhHDHAA&s" alt="Xpand-IT Logo" width="200"/>
-
-**Projetos Pessoais**  
-*Desenvolvimento de uma App Android (XAMARIN)*  
-*Janeiro 2021 – Presente*  
-- Desenvolvendo uma aplicação Android para aprender sobre desenvolvimento mobile com a tecnologia Xamarin.
-- Esta aplicação é a versão 2 de [Gestor_TAB](https://github.com/flipper09112/Gestor_TAB)
-- Foram adicionadas algumas funcionalidades como:
-  - Faturação
-  - Gestão de caixa
-  - Impressão de recibos (Thermal printers bluetooth)
-- Repositório: [GitHub](https://github.com/flipper09112/mvvmApp)
-
-*Desenvolvimento de uma App Android (JAVA)*  
-*Setembro 2019 – Dezembro 2020*  
-- Desenvolvi uma aplicação Android para aprender sobre arquitetura mobile.
-- Esta aplicação foi desenvolvida para um cenário de processar dados de uma frota de clientes de uma distribuição ao domicílio de produtos de panificação, pastelaria e derivados.
-- Repositório: [GitHub](https://github.com/flipper09112/Gestor_TAB)
+Forte foco em arquitetura MVVM, acessibilidade mobile (TalkBack e VoiceOver), qualidade de código, testes automatizados e integração contínua. Experiência adicional em Kotlin Multiplatform e desenvolvimento de componentes reutilizáveis para múltiplas aplicações.
 
 ---
 
-## 🛠️ Competências Técnicas
-- **MAUI**: ![92%](https://progress-bar.dev/92)
-- **Xamarin**: ![90%](https://progress-bar.dev/90)
-- **C#**: ![85%](https://progress-bar.dev/85)
-- **Android Studio**: ![75%](https://progress-bar.dev/75)
-- **Java**: ![70%](https://progress-bar.dev/70)
-- **Arduino**: ![60%](https://progress-bar.dev/60)
-- **OpenVPN**: ![50%](https://progress-bar.dev/50)
-- **Python**: ![40%](https://progress-bar.dev/40)
+# 💼 Experiência Profissional
+
+## Xpand IT
+
+**Senior Mobile Developer**
+*Julho 2020 – Presente*
+
+Participação no desenvolvimento de aplicações mobile para clientes dos setores da banca, pagamentos e seguros, utilizando Xamarin, .NET MAUI, Android Nativo e Kotlin Multiplatform.
+
+### Médis (Seguros de Saúde)
+
+**Xamarin.Android**
+
+* Desenvolvimento e integração de funcionalidades de videochamada para consultas médicas remotas.
+* Implementação da Android Self-Managed ConnectionService API para suporte a comunicações VoIP.
+* Desenvolvimento de funcionalidades relacionadas com avaliação e triagem de sintomas.
+* Integração com APIs e serviços externos da plataforma.
+* Participação na evolução contínua da aplicação e suporte em produção.
+
+**Tecnologias:** Xamarin.Android, C#, Android SDK
+
+### Montepio (Banca)
+
+**.NET MAUI**
+
+* Desenvolvimento de bibliotecas reutilizáveis para múltiplas aplicações e canais digitais.
+* Criação de framework de onboarding digital para abertura de conta e adesão a produtos bancários.
+* Desenvolvimento de biblioteca de componentes UI e animações reutilizáveis.
+* Definição de standards de interface e boas práticas de desenvolvimento frontend.
+* Colaboração com equipas multidisciplinares para uniformização da experiência digital.
+
+**Tecnologias:** .NET MAUI, C#, MVVM
+
+### Unibanco (Pagamentos)
+
+**.NET MAUI**
+
+* Participação na migração de aplicações Xamarin.Forms para .NET MAUI.
+* Desenvolvimento de novas funcionalidades e manutenção evolutiva.
+* Correção de incidentes em ambiente de produção.
+* Implementação de melhorias de desempenho e estabilidade.
+* Desenvolvimento de testes unitários e suporte a pipelines CI/CD.
+
+**Tecnologias:** .NET MAUI, Xamarin.Forms, C#, Azure DevOps
+
+### Novo Banco (Banca)
+
+**Android Nativo / Acessibilidade**
+
+* Implementação de melhorias de acessibilidade para conformidade com WCAG e requisitos legais.
+* Otimização da experiência para utilizadores de leitores de ecrã (TalkBack).
+* Correção de problemas de navegação, foco, anúncios e semântica de componentes Android.
+* Desenvolvimento de componentes acessíveis para melhoria da experiência do utilizador.
+* Colaboração com equipas de QA e acessibilidade para validação das soluções implementadas.
+
+**Tecnologias:** Android SDK, Java, Kotlin, Accessibility Services, TalkBack
+
+### European Wallet Framework (EWF)
+
+**Kotlin Multiplatform Developer**
+
+* Desenvolvimento de aplicação cross-platform para Android e iOS utilizando Kotlin Multiplatform.
+* Criação de módulos partilhados para lógica de negócio e integração com APIs.
+* Implementação de interfaces utilizando Compose Multiplatform.
+* Participação na definição da arquitetura da solução.
+* Integração de dependências e serviços partilhados através de Koin.
+
+**Tecnologias:** Kotlin Multiplatform, Compose Multiplatform, Koin, REST APIs
+
+---
+
+## Feedzai
+
+**Software Engineering Summer Intern**
+*Junho 2019 – Setembro 2019*
+
+* Desenvolvimento de middleware para automatização da criação e gestão de recursos utilizados em testes.
+* Desenvolvimento de ferramentas de suporte a testes unitários e testes de integração.
+* Trabalho em ambiente baseado em containers Docker e processos automatizados.
+
+**Tecnologias:** Java, Maven, Docker
+
+---
+
+# 🚀 Projetos Pessoais
+
+## Gestor TAB
+
+Aplicação Android desenvolvida para gestão operacional de distribuidores e pequenas empresas.
+
+### Funcionalidades
+
+* Gestão de clientes
+* Gestão de encomendas
+* Faturação
+* Gestão de caixa
+* Impressão de recibos Bluetooth
+* Relatórios operacionais
+
+**Tecnologias:** Xamarin, SQLite, MVVM
+
+**GitHub:**
+https://github.com/flipper09112/mvvmApp
+
+---
+
+## FlipCode
+
+Perfil dedicado à partilha de projetos técnicos desenvolvidos nos tempos livres.
+
+### Áreas abordadas
+
+* Aplicações Android e .NET MAUI
+* Automação e integração com hardware
+* Arduino e eletrónica
+* Ferramentas para pequenos negócios
+* Exploração de novas tecnologias e frameworks
+
+**Instagram:**
+https://www.instagram.com/flipc0de/
+
+**GitHub:**
+https://github.com/flipper09112
+
+---
+
+# 🏆 Publicações Técnicas
+
+## Xamarin Android Self-Managed ConnectionService API
+
+Artigo técnico sobre implementação de funcionalidades de comunicação VoIP utilizando Android ConnectionService API.
+
+**Medium:**
+https://medium.com/@filipe.torres112/xamarin-android-self-managed-connectionservice-api-fa548c6897b
+
+---
+
+# 🎓 Formação Académica
+
+## Universidade de Coimbra
+
+**Pós-graduação em Segurança Informática**
+*2018 – 2019*
+
+## Universidade de Coimbra
+
+**Licenciatura em Engenharia Informática**
+*2015 – 2018*
+
+---
+
+# 🛠️ Competências Técnicas
+
+## Mobile
+
+* .NET MAUI
+* Xamarin.Forms
+* Xamarin.Android
+* Android SDK
+* Kotlin Multiplatform
+* Compose Multiplatform
+
+## Linguagens
+
+* C#
+* Kotlin
+* Java
+* SQL
+* Python
+
+## Arquitetura e Padrões
+
+* MVVM
+* Clean Architecture
+* SOLID
+* Dependency Injection
+
+## Testes
+
+* MSTest
+* Unit Testing
+* Mocking
+* Test Automation
+
+## DevOps
+
+* Azure DevOps
+* Git
+* CI/CD
+* App Center
+
+## Cloud e Serviços
+
+* Firebase
+* REST APIs
+* Push Notifications
+
+## Acessibilidade
+
+* TalkBack
+* VoiceOver
+* WCAG Mobile
+
+## Ferramentas
+
+* Visual Studio
+* Visual Studio Code
+* Android Studio
+* DevEco Studio
+
+---
+
+# 🌍 Idiomas
+
+* Português — Nativo
+* Inglês — Profissional
